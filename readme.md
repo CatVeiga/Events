@@ -17,6 +17,8 @@ Hi there, I'm Catarina Veiga 👋
 
 <p align="center">If you want to take a look at my project, you can click on this link below ⬇️ </p>
 
+<a href="https://anacatarinaveigaevents.netlify.app/">Ana Catarina Veiga Events</a>
+
 # Browser Support
  ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) 
 
