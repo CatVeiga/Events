@@ -11,7 +11,7 @@ Hi there, I'm Catarina Veiga 👋
 <p align="center">💬 If you have any questions/feedback, please do not hesitate to reach out to me!</p>
 <hr>
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a7020441-7364-42f2-85d6-03836fac6798/deploy-status)](https://app.netlify.com/sites/anacatarinaveigaevents/deploys)
 
 # Live Preview 
 
