@@ -133,6 +133,11 @@ section {
   padding-bottom: 6rem;
 }
 
+.about .heading {
+  color: var(--text-color);
+}
+
+
 .about-img {
   position: relative;
   width: 25rem;
