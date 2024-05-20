@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 * {
   margin: 0;
@@ -89,7 +90,7 @@ section {
   display: flex;
   align-items: center;
   padding: 0 9%;
-  background: url(./assets/hero_image_logo.png) no-repeat;
+  background: url(./assets/pexels-bendix-251808.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -105,7 +106,7 @@ section {
 }
 
 .home-content h1 span {
-  color: var(--text-color);
+  color: var(--main-color);
 }
 
 .home-content .text-animate {
@@ -114,12 +115,10 @@ section {
 }
 
 .home-content .text-animate h3 {
+  font-family: "Pacifico", cursive;
   font-size: 3.2rem;
   font-weight: 700;
-  color: transparent;
-  -webkit-text-stroke: 1.5px var(--text-color);
-  text-shadow: 1px 1px 2px var(--third-color), 0 0 1em var(--fourth-color),
-    0 0 2em var(--fourth-color);
+  color: var(--text-color);
 }
 
 /** about section **/
