@@ -451,7 +451,7 @@ span {
   position: relative;
   width: 49%;
   margin: 0.8rem 0;
-  text-color: var(--bg-color);
+  text-color: var(--bg-color)!important;
 }
 
 .contacts form .input-box .input-field input,
