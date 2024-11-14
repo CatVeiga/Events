@@ -20,6 +20,7 @@
   --main-color: #b36f8f;
   --third-color: #5b4672;
   --fourth-color: #8265a7;
+  --fifth-color: #000000;
 }
 
 html {
@@ -459,7 +460,7 @@ span {
   height: 100%;
   padding: 1.5rem;
   font-size: 1.6rem;
-  color: var(--text-color);
+  color: var(--fifth-color);
   background: transparent;
   border-radius: 0.6rem;
   border: 0.2rem solid var(--main-color);
